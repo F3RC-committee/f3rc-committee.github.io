@@ -18,12 +18,12 @@ layout: default
 
 
 ## 資料
-[ル―ルブック Ver.1.3](../data/2024/pdf/F3RC2024_rulebook_v13.pdf)  
-[フィールド・オブジェクト図面 Ver.2.1](../data/2024/pdf/F3RC2024_field_and_object_v21.pdf)  
-[応募要項](../data/2024/pdf/F3RC2024_guidelines_0610.pdf)  
-[エントリーシート](../data/2024/Word/F3RC2024_entry_sheet.docx)  
-[ロボット説明書テンプレート](../data/2024/Word/F3RC2024_ロボット説明書_テンプレート.docx)  
-[FAQ ver.2.0](../data/2024/pdf/F3RC2024_faq_v20.pdf)  
+[ル―ルブック Ver.1.3](../../data/2024/pdf/F3RC2024_rulebook_v13.pdf)  
+[フィールド・オブジェクト図面 Ver.2.1](../../data/2024/pdf/F3RC2024_field_and_object_v21.pdf)  
+[応募要項](../../data/2024/pdf/F3RC2024_guidelines_0610.pdf)  
+[エントリーシート](../../data/2024/Word/F3RC2024_entry_sheet.docx)  
+[ロボット説明書テンプレート](../../data/2024/Word/F3RC2024_ロボット説明書_テンプレート.docx)  
+[FAQ ver.2.0](../../data/2024/pdf/F3RC2024_faq_v20.pdf)  
 
 ## ロボット説明書提出について
 [こちらのGoogle forms](https://docs.google.com/forms/d/e/1FAIpQLSdO75wLbCaaYp_whQvZue3E9YFoKH3osB0EshDbLM3lWw0xhw/viewform?usp=sf_link)より、**8月20日 (火) 18時 まで**に提出をお願いします。
