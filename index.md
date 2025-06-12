@@ -7,10 +7,10 @@ F<sup>3</sup>RC（エフキューブアールシー）とは、複数の大学�
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/F3RC_robocon?ref_src=twsrc%5Etfw">Tweets by F3RC_robocon</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-## 2024年度大会
-[大会概要](/F3RC2024/outline.html)
+## 2025年度大会
+[大会概要](/F3RC2025/outline.html)
 
-## 過去の大会公式サイト
+## 過去の大会公式サイト 
 - [2012年度~2022年度](http://f3rcontest.web.fc2.com/index.html)
 - [2005年度~2011年度](http://hrpcontest.web.fc2.com/index.html)
 
