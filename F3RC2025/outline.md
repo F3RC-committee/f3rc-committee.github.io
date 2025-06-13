@@ -14,21 +14,23 @@ layout: default
 : 明治大学生田キャンパス体育館
 
 大会テーマ
-: 「」
+: 「発電所」
 
 
 ## 資料
-[ル―ルブック Ver.1.0](../)  
-[フィールド・オブジェクト図面 Ver.2.1](../)  
-[応募要項](../)  
-[エントリーシート](../)  
+[ル―ルブック Ver.1.0](../data/2025/pdf/F³RC2025_rulebook_v1.0.pdf)  
+[フィールド・オブジェクト図面 Ver.1.0](../data/2025/pdf/F3RC2025_field_and_object_v1.0.pdf)  
+[応募要項](../data/2025/pdf/F3RC2025_guidelines_0613.pdf)  
+[エントリーシート](../data/2025/word/F3RC2025_entry_sheet.docx)  
+以下、後日公開予定
 [ロボット説明書テンプレート](../)  
 [FAQ](../)  
 
 ## ロボット説明書提出について
-[こちらのGoogle forms](https://docs.google.com/forms/d/e/1FAIpQLSdO75wLbCaaYp_whQvZue3E9YFoKH3osB0EshDbLM3lWw0xhw/viewform?usp=sf_link)より、**8月20日 (火) 18時 まで**に提出をお願いします。
+後日公開予定
+~~[こちらのGoogle forms]()より、~~**8月20日 (水) 18時 まで**に提出をお願いします。
 
-## ルール質問については[こちら](https://f3rc-committee.github.io/F3RC2024/2024FAQ.html)
+## ルール質問については[こちら](https://f3rc-committee.github.io/F3RC2025/2025FAQ.html)
 
 ## 大会出場までの流れ
 大会出場までの流れは以下の通りです。
