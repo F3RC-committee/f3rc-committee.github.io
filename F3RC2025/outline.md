@@ -27,6 +27,9 @@ layout: default
 [ロボット説明書テンプレート](../)  
 [FAQ](../)  
 
+## エントリーシート提出について
+[こちらのGoogle forms](https://docs.google.com/forms/d/e/1FAIpQLSfsNgdpa59WkJlrASkpkNKHpZiLPMr4bVNVft8XPmD8S_Wv0g/viewform?usp=header)より、**6月30日 (月) 18時 まで**に提出をお願いします。
+
 ## ロボット説明書提出について
 後日公開予定
 ~~[こちらのGoogle forms]()より、~~**8月20日 (水) 18時 まで**に提出をお願いします。
