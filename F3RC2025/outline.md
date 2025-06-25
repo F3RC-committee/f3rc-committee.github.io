@@ -18,7 +18,7 @@ layout: default
 
 
 ## 資料
-[ル―ルブック Ver.1.0](../data/2025/pdf/F³RC2025_rulebook_v1.0.pdf)  
+[ル―ルブック Ver.1.1](../data/2025/pdf/F³RC2025_rulebook_v1.1.pdf)  
 [フィールド・オブジェクト図面 Ver.1.0](../data/2025/pdf/F3RC2025_field_and_object_v1.0.pdf)  
 [応募要項](../data/2025/pdf/F3RC2025_guidelines_0613.pdf)  
 [エントリーシート](../data/2025/word/F3RC2025_entry_sheet.docx)  
