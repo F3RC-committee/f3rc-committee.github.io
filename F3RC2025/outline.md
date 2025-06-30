@@ -23,10 +23,7 @@ layout: default
 [応募要項](../data/2025/pdf/F3RC2025_guidelines_0613.pdf)  
 [エントリーシート](../data/2025/word/F3RC2025_entry_sheet.docx)  
 [FAQ](../F3RC2025/2025FAQ.md)
-
-以下、後日公開予定
-
-[ロボット説明書テンプレート](../)    
+[ロボット説明書テンプレート](../data/2025/word/F3RC2025_ロボット説明書_テンプレート.docx)    
 
 ## エントリーシート提出について
 [こちらのGoogle forms](https://docs.google.com/forms/d/e/1FAIpQLSfsNgdpa59WkJlrASkpkNKHpZiLPMr4bVNVft8XPmD8S_Wv0g/viewform?usp=header)より、**6月30日 (月) 18時 まで**に提出をお願いします。
