@@ -26,7 +26,8 @@ layout: default
 [ロボット説明書テンプレート](../data/2025/word/F3RC2025_ロボット説明書_テンプレート.docx)    
 
 ## エントリーシート提出について
-[こちらのGoogle forms](https://docs.google.com/forms/d/e/1FAIpQLSfsNgdpa59WkJlrASkpkNKHpZiLPMr4bVNVft8XPmD8S_Wv0g/viewform?usp=header)より、**6月30日 (月) 18時 まで**に提出をお願いします。
+ ~~[こちらのGoogle forms](https://docs.google.com/forms/d/e/1FAIpQLSfsNgdpa59WkJlrASkpkNKHpZiLPMr4bVNVft8XPmD8S_Wv0g/viewform?usp=header)より、**6月30日 (月) 18時 まで**に提出をお願いします。~~ 
+こちらの提出フォームは6月30日18時で締め切りました．                                           
 
 ## ロボット説明書提出について
 後日公開予定
