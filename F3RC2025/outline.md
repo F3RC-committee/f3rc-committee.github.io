@@ -17,12 +17,13 @@ layout: default
 : 「発電所」
 
 
+
 ## 資料
 [ル―ルブック Ver.1.1 (2025/6/25 23:00更新)](../data/2025/pdf/F³RC2025_rulebook_v1.1.pdf)  
-[フィールド・オブジェクト図面 Ver.1.0](../data/2025/pdf/F3RC2025_field_and_object_v1.0.pdf)  
+[フィールド・オブジェクト図面 Ver.1.1](https://github.com/user-attachments/files/21522690/F3RC2025_field_and_object_v1.1.pdf)  
 [応募要項](../data/2025/pdf/F3RC2025_guidelines_0613.pdf)  
 [エントリーシート](../data/2025/word/F3RC2025_entry_sheet.docx)  
-[FAQ](../F3RC2025/2025FAQ.md)  
+[FAQ Ver.1.0](https://github.com/user-attachments/files/21522755/F3RC2025_field_and_object_v1.1.pdf)  
 [ロボット説明書テンプレート](../data/2025/word/F3RC2025_ロボット説明書_テンプレート.docx)    
 
 ## エントリーシート提出について
