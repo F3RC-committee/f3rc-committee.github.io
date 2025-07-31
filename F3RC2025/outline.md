@@ -23,7 +23,7 @@ layout: default
 [フィールド・オブジェクト図面 Ver.1.1](https://github.com/user-attachments/files/21522690/F3RC2025_field_and_object_v1.1.pdf)  
 [応募要項](../data/2025/pdf/F3RC2025_guidelines_0613.pdf)  
 [エントリーシート](../data/2025/word/F3RC2025_entry_sheet.docx)  
-[FAQ Ver.1.0](https://github.com/user-attachments/files/21522806/f3rc2025_q_a______.docx)  
+[FAQ Ver.1.0](https://github.com/user-attachments/files/21524079/f3rc2025_q_a______Ver.1.0.pdf)   
 [ロボット説明書テンプレート](../data/2025/word/F3RC2025_ロボット説明書_テンプレート.docx)    
 
 ## エントリーシート提出について
@@ -64,3 +64,4 @@ layout: default
 
 ## 更新履歴
 6/13 (金) ルールブック・フィールド図・エントリーシート公開
+7/31 (木) フィールド・オブジェクト図面 Ver.1.1, FAQ Ver.1.0 公開
