@@ -20,7 +20,6 @@ layout: default
 
 ## 資料
 [ル―ルブック Ver.2.0 (2025/8/7 0:50更新)](https://github.com/user-attachments/files/21622352/f__rc2025_rulebook_v2.0.pdf)
-
 [フィールド・オブジェクト図面 Ver.1.2](../data/2025/pdf/F3RC2025_field_and_object_v1.2.pdf)  
 [応募要項](../data/2025/pdf/F3RC2025_guidelines_0613.pdf)  
 [エントリーシート](../data/2025/word/F3RC2025_entry_sheet.docx)  
@@ -67,3 +66,4 @@ layout: default
 6/13 (金) ルールブック・フィールド図・エントリーシート公開  
 7/31 (木) フィールド・オブジェクト図 Ver.1.1, FAQ Ver.1.0 公開
 8/4 (月) フィールド・オブジェクト図 Ver.1.2 公開
+8/7 (木) ルールブック　Ver.2.0 公開
