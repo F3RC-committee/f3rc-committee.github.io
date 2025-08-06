@@ -19,7 +19,8 @@ layout: default
 
 
 ## 資料
-[ル―ルブック Ver.1.1 (2025/6/25 23:00更新)](../data/2025/pdf/F³RC2025_rulebook_v1.1.pdf)  
+[ル―ルブック Ver.2.0 (2025/8/7 0:50更新)](https://github.com/user-attachments/files/21622352/f__rc2025_rulebook_v2.0.pdf)
+
 [フィールド・オブジェクト図面 Ver.1.2](../data/2025/pdf/F3RC2025_field_and_object_v1.2.pdf)  
 [応募要項](../data/2025/pdf/F3RC2025_guidelines_0613.pdf)  
 [エントリーシート](../data/2025/word/F3RC2025_entry_sheet.docx)  
