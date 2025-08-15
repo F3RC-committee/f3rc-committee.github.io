@@ -31,8 +31,7 @@ layout: default
 こちらの提出フォームは6月30日18時で締め切りました．                                           
 
 ## ロボット説明書提出について
-後日公開予定
-~~[こちらのGoogle forms]()より、~~**8月20日 (水) 18時 まで**に提出をお願いします。
+[こちらのGoogle forms](https://docs.google.com/forms/d/e/1FAIpQLSfFXAhVxrmZmSxfEIvsD1DakjMnxeWHbwbhivoVyGwAybgSSw/viewform?usp=dialog)より、**8月20日 (水) 18時 まで**に提出をお願いします。
 
 ## ルール質問については[こちら](https://f3rc-committee.github.io/F3RC2025/2025FAQ.html)
 
@@ -67,3 +66,4 @@ layout: default
 7/31 (木) フィールド・オブジェクト図 Ver.1.1, FAQ Ver.1.0 公開
 8/4 (月) フィールド・オブジェクト図 Ver.1.2 公開  
 8/7 (木) ルールブック　Ver.2.0 公開
+8/15（金）ロボット説明書提出フォーム公開
