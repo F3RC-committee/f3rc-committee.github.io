@@ -9,7 +9,7 @@ sort: 2
 
 ## オンライン配信について
 YouTube Liveでの配信を予定しております。
-<iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/AA6l0kNn-rA?si=9hqthRM9IaxtTi7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/TeAG-XuRQtk?si=rB8A2FKH3oQrJ3w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 会場でのご観覧について
 日時
