@@ -29,6 +29,7 @@ YouTube Liveでの配信を予定しております。
 
 パンフレット
 : 
-[pdfファイルダウンロードは少々お待ちください]()
+<a href="./data/2025/pdf/パンフレット ver.2.pdf">pdfファイルダウンロード</a>
+
 ![IMG_1982](https://github.com/user-attachments/assets/4fae791a-d8f8-4adf-a7a7-def20b5901c7)
 
