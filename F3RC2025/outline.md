@@ -57,7 +57,7 @@ layout: default
 <a href="https://www.subaru.co.jp/outline/about/aerospace/" target="_blank"><img src="https://github.com/F3RC-committee/f3rc-committee.github.io/assets/101381500/2fec54b9-b4c3-433e-bca6-808efe6f848f" alt="subaru-logo" class="company-logo"></a>
 
 ### 白銅株式会社 様
-<img alt="hakudo-logo" src="https://github.com/user-attachments/assets/d05d5750-1dba-473f-9521-3ec9d99f3fd4" class="company-logo"/>
+<a href="https://www.hakudo.co.jp/sustainability/social/monozukurikyousan/robocon/" target="_blank"><img alt="hakudo-logo" src="https://github.com/user-attachments/assets/d05d5750-1dba-473f-9521-3ec9d99f3fd4" class="company-logo"/></a>
 
 
 
