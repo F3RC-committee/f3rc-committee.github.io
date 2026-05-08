@@ -30,10 +30,11 @@ twitter_username: jekyllrb
 github_username:  F3RC-commitee
 
 plugins:
+  - jekyll-remote-theme
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
-
+remote_theme: clearpathrobotics/jekyll-rtd-theme
 readme_index:
   with_frontmatter: true
   
