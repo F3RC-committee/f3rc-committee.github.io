@@ -1,4 +1,8 @@
-
+---
+title: F3RC
+layout: default
+nav_order: 1
+---
 # F<sup>3</sup>RC 
 F<sup>3</sup>RC（エフキューブアールシー）とは、複数の大学が合同で開催している、NHKロボコンへの参加を目指す新入生の技術向上を目的としたロボットコンテストです。
 

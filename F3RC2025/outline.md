@@ -1,5 +1,6 @@
 ---
 title: 大会概要
+sort: 6
 layout: default
 ---
 

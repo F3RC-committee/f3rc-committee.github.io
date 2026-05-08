@@ -34,10 +34,10 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+  - jekyll-redirect-from
 remote_theme: clearpathrobotics/jekyll-rtd-theme
 readme_index:
   with_frontmatter: true
-  
 defaults:
 
 # Exclude from processing.
