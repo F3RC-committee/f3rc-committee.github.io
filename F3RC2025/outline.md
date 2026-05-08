@@ -48,18 +48,16 @@ layout: default
 
 ## 2025年度大会スポンサー様(五十音順)
 
-<style>img.company-logo{max-width: min(100%, 35em)}</style>
-
 ### Autodesk 様
-<img src="https://github.com/F3RC-committee/f3rc-committee.github.io/assets/164468008/783fb6a9-bae4-46f8-a4c4-87e64adb4d75" alt="autodesk-logo-primary-rgb-black-large" class="company-logo">
+<img src="../data/2025/img/AUTODESK.png" alt="autodesk-logo-primary-rgb-black-large" class="company-logo" />
 
-### <img src="https://github.com/F3RC-committee/f3rc-committee.github.io/assets/101381500/9448899f-318d-4b46-845d-7334b18e3243" alt="subaru-corporate-name-logo" style="height: 1em;"><span style="font-size:0">株式会社SUBARU</span> 様
-<a href="https://www.subaru.co.jp/outline/about/aerospace/" target="_blank"><img src="https://github.com/F3RC-committee/f3rc-committee.github.io/assets/101381500/2fec54b9-b4c3-433e-bca6-808efe6f848f" alt="subaru-logo" class="company-logo"></a>
+### <img src="../data/2025/img/SUBARU_NAME.png" alt="subaru-corporate-name-logo" style="height: 1em;" /><span style="font-size:0">株式会社SUBARU</span> 様
+<a href="https://www.subaru.co.jp/outline/about/aerospace/" target="_blank"><img src="../data/2025/img/SUBARU.png" alt="subaru-logo" class="company-logo"></a>
 
 ### 白銅株式会社 様
-<a href="https://www.hakudo.co.jp/sustainability/social/monozukurikyousan/robocon/" target="_blank"><img alt="hakudo-logo" src="https://github.com/user-attachments/assets/d05d5750-1dba-473f-9521-3ec9d99f3fd4" class="company-logo"/></a>
+<a href="https://www.hakudo.co.jp/sustainability/social/monozukurikyousan/robocon/" target="_blank"><img alt="hakudo-logo" src="../data/2025/img/HAKUDO.png" class="company-logo"/></a>
 
-
+<style>img.company-logo{max-width: min(100%, 35em)}</style>
 
 ## 更新履歴
 6/13 (金) ルールブック・フィールド図・エントリーシート公開  
